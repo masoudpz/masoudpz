@@ -7,27 +7,6 @@
 - 💬 Ask me about __Python / Deep Learning__
 
 
-<!--
-<table>
-    <tr>
-        <th>My Blog</th>
-        <th>My Website</th>
-        <th>My CV</th>
-    </tr>
-    <tr>
-        <td>
-            <a href="link"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"/></a>
-        </td>
-        <td>
-            <a href="link">🌐</a>
-        </td>
-        <td>
-            <a href="link">📃</a>
-        </td>
-    </tr>
-</table>-->
-
-
 ### Contact me:
 
 
@@ -44,7 +23,6 @@
             <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_cloudformation/amazon_cloudformation-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_elasticcontainer/amazon_elasticcontainer-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_cloudwatch/amazon_cloudwatch-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/serverless/serverless-icon.svg" width="40" height="40"/></a>
         </td>
@@ -109,9 +87,6 @@
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/cucumber/cucumber-plain.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/philadelphiapact/philadelphiapact-icon.svg" width="40" height="40"/></a>
-            <!-- <a href=""><img src=""/></a>
-            <a href=""><img src=""/></a>
-            <a href=""><img src=""/></a> -->
         </td>
     </tr> -->
     <tr>
